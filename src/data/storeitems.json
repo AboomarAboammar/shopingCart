@@ -1,0 +1,74 @@
+[
+    {
+      "id": 1,
+      "name": "LAPTOP",
+      "price": 2510.99,
+      "imgUrl": "/imgs/LAPTOP.jpg"
+    },
+    {
+      "id": 2,
+      "name": "mobile 1",
+      "price": 1199,
+      "imgUrl": "/imgs/mobile 1.jpeg"
+    },
+    {
+      "id": 3,
+      "name": "mobile 2",
+      "price": 1500.05,
+      "imgUrl": "/imgs/mobile 2.jpg"
+    },
+    {
+      "id": 4,
+      "name": "clock",
+      "price": 140,
+      "imgUrl": "/imgs/clock.jpg"
+    },
+        {
+          "id": 5,
+          "name": "mobile 3",
+          "price": 1099.99,
+          "imgUrl": "/imgs/mobile 3.jpg"
+        },
+        {
+          "id": 6,
+          "name": "mobile 1",
+          "price": 1199,
+          "imgUrl": "/imgs/mobile 1.jpeg"
+        },
+        {
+          "id": 7,
+          "name": "mobile 5",
+          "price": 1.05,
+          "imgUrl": "/imgs/mobile 5.png"
+        },{
+            "id": 8,
+            "name": "mobile 8",
+            "price": 1400,
+            "imgUrl": "/imgs/mobile 8.jpg"
+          },{
+            "id": 9,
+            "name": "mobile 6",
+            "price": 1400,
+            "imgUrl": "/imgs/mobile 6.webp"
+          },{
+            "id": 10,
+            "name": "mobile 7",
+            "price": 1400,
+            "imgUrl": "/imgs/mobile 7.webp"
+          },{
+            "id": 11,
+            "name": "mobile 9",
+            "price": 1400,
+            "imgUrl": "/imgs/mobile 9.webp"
+          },{
+            "id": 12,
+            "name": "mobile 14",
+            "price": 1400,
+            "imgUrl": "/imgs/mobile 14.webp"
+          }
+        
+        
+      
+      
+  ]
+  
