@@ -4,7 +4,7 @@ import { useShopingCart } from "../context/ShopingCartContext";
 import formatCurrency from "./formatCurrency";
 
 
-const StoreItem = ({ id, name, price, imgUrl }) => {
+const StoreItem = ({ id, name, price,imgUrl}) => {
   
   const {
     increaseCartQuantity,
